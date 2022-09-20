@@ -7,7 +7,8 @@
 #### Este módulo profesional contiene la formación necesaria para aprender inglés.
 
 **OBJETIVOS:**
-* Aprender inglés.
+* Practicar inglés.
+* Improve your english and study a lot :)
 
 **CONTENIDOS**
 * Inglés.
