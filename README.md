@@ -1,4 +1,4 @@
-![Encabezado ASIR](/Encabezado%20ASIR.png)
+![Encabezado ASIR](/EncabezadoASIR.png)
 
 >**Este profesional será capaz de:**
 ##### Configurar, administrar y mantener sistemas informáticos, garantizando la funcionalidad, la integridad de los recursos y servicios del sistema, con la calidad exigida y cumpliendo la reglamentación vigente. Ejercerá su actividad en el área informática de entidades que dispongan de sistemas para la gestión de datos e infraestructura de redes, (intranet, internet y/o extranet). Entre los puestos de trabajo que puede desempeñar destacan los siguientes: técnico en administración de sistemas, responsable de informática, técnico en servicios de internet, técnico en servicios de mensajería electrónica, personal de apoyo y soporte técnico, técnico en teleasistencia, técnico en administración de bases de datos, técnico en redes, supervisor de sistemas o técnico en entornos web.
