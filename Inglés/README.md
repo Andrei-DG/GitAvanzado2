@@ -14,3 +14,5 @@
 
 **TECNOLOGÍAS**
 * Ninguna
+
+Esta es una modificación de prueba para el ejercicio 6
